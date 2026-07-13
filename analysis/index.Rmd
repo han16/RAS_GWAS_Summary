@@ -9,3 +9,9 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+
+
+## model formulation 
+
+* [this is the model formulation](https://anson-li8.github.io/ras-ss/00_problem_statement.html)
