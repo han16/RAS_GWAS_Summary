@@ -1,7 +1,7 @@
-name: "RAS_GWAS_Summary"
+name: RAS_GWAS_Summary
 output_dir: ../docs
 navbar:
-  title: "RAS_GWAS_Summary"
+  title: RAS_GWAS_Summary
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fab fa-github
+    text: Source code
+    href: https://github.com/han16/RAS_GWAS_Summary
 output:
   workflowr::wflow_html:
     toc: yes
